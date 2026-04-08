@@ -2,4 +2,5 @@ build/
 zmk/
 modules/
 tools/
+.direnv
 .west/

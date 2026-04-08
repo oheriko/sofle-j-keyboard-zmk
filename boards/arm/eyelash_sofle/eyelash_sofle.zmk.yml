@@ -13,3 +13,5 @@ outputs:
 siblings:
   - eyelash_sofle_left
   - eyelash_sofle_right
+qualifiers:
+  - zmk
